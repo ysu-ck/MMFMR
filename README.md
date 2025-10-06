@@ -3,11 +3,12 @@
 ## Usage
 This section outlines the recommended file structure and basic usage instructions for the project.
 
-##RGB-D image acquisition
-
+### RGB-D image acquisition
+```plaintext
 python d435i.py
+```
 
-### Recommended File Structure
+#### Recommended File Structure
 ```plaintext
 MMFMR/
 │
@@ -27,7 +28,7 @@ MMFMR/
 └── README.md             # Project README
 ```
 
-#### Data Preparation
+##### Data Preparation
 
 Our self-constructed CMRD is in data.zip
 
@@ -45,7 +46,7 @@ rgbd-dataset/
 │   │   └── ...           
 │   └── ...
 ```
-### Running the Training Script
+#### Running the Training Script
 ```bash
 python train.py
 ```
