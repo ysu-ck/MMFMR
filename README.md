@@ -30,7 +30,7 @@ MMFMR/
 
 ##### Data Preparation
 
-Our self-constructed CMRD is in data.zip
+Our self-constructed CMRD is available [in data.zip](https://huggingface.co/datasets/ysuck/CMRD/resolve/main/data.zip)
 
 Washington RGB-D Object dataset is available [here](<https://rgbd-dataset.cs.washington.edu/dataset.html>).The `train.py` script utilizes a specific depth image processing method as detailed in the [paper](https://www.sciencedirect.com/science/article/abs/pii/S1077314222000133). This method is crucial for preparing the dataset for effective training of our model. The following directory structure is a reference to run the `train.py` script
 
