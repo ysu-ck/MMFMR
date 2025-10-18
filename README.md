@@ -1,4 +1,4 @@
-# Multi-Modal Fusion for Material Recognition in Autonomous Construction Machinery Operations
+# Transformer-Based Multi-Modal Fusion for Material Recognition in Construction Environments
 
 ## Usage
 This section outlines the recommended file structure and basic usage instructions for the project.
